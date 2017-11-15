@@ -1,4 +1,3 @@
-CSCI4211-chat_app
 A simple chatting platform and p2p sharing app
 
 PHASE 1:
